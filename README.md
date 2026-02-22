@@ -22,5 +22,6 @@ Incredibly lightweight. It connects to your API, we only have two files.
 
 ### 2. Configuration
 
-* Each file needs to be edited to have your API KEY, URL, and USER ID. You can make API keys in the Admin Dashboard in Jellyfin.
+* You must edit CONFIG.PHP with your API KEY, USER ID, JELLYFIN URL, and DIFFERENT TIMEZONE IF YOU NEED IT
 * To get your USER ID, login to Jellyfin. Head to your user profile page. Check the URL in the browser, you will see it towards the end.
+* Your API Key head to Dashboard - API Keys - New API Key. App name can be anything you want.
